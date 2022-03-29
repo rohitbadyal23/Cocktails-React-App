@@ -7,6 +7,6 @@ API Used: https://www.thecocktaildb.com/api/json/v1/1/search.php?s=
 - Displays a list of all the cocktails
 - Single page for a certain cocktail with all the information
 
-###Built
+### Built
 - React
 - React Router
