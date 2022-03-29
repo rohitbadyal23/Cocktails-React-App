@@ -1,11 +1,12 @@
-#### React Router Fix
+#### Cocktail React App
+Built a React App that pulls from an API about Cocktails.
+API Used: https://www.thecocktaildb.com/api/json/v1/1/search.php?s=
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+### Functions
+-Search For a Certain Cocktail
+-Displays a list of all the cocktails
+-Single page for a certain cocktail with all the information
 
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
+###Built
+-React
+-React Router
